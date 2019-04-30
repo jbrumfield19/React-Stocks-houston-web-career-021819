@@ -4,61 +4,71 @@
       "ticker" :"GOOG",
       "name": "Google",
       "type": "Tech",
-      "price": 1194.80
+      "price": 1194.80,
+      "owned":false
     },
     { "id": 2,
       "ticker" :"FB",
       "name": "Facebook",
       "type": "Tech",
-      "price": 168.85
+      "price": 168.85,
+      "owned":false
     },
     { "id": 3,
       "ticker" :"TWTR",
       "name": "Twitter",
       "type": "Tech",
-      "price": 29.41
+      "price": 29.41,
+      "owned":false
     },
     { "id": 4,
       "ticker" :"AMZN",
       "name": "Amazon",
       "type": "Tech",
-      "price": 2013.04
+      "price": 2013.04,
+      "owned":false
     },
     { "id": 5,
       "ticker" :"V",
       "name": "Visa",
       "type": "Finance",
-      "price": 150.05
+      "price": 150.05,
+      "owned":false
     },
     { "id": 6,
       "ticker" :"BAC",
       "name": "Bank of America",
       "type": "Finance",
-      "price": 29.95
+      "price": 29.95,
+      "owned":false
     },
     { "id": 7,
       "ticker" :"JPM",
       "name": "JP Morgan",
       "type": "Finance",
-      "price": 114.45
+      "price": 114.45,
+      "owned":false
     },
     { "id": 8,
       "ticker" :"C",
       "name": "Citi Bank",
       "type": "Finance",
-      "price": 72.94
+      "price": 72.94,
+      "owned":false
     },
     { "id": 9,
       "ticker" :"NKE",
       "name": "Nike",
       "type": "Sportswear",
-      "price": 84.56
+      "price": 84.56,
+      "owned":false
     },
     { "id": 10,
       "ticker" :"UAA",
       "name": "Under Armour",
       "type": "Sportswear",
-      "price": 21.07
+      "price": 21.07,
+      "owned":false
     }
   ]
 }
